@@ -1,0 +1,8 @@
+id=6; pagerank=1.69
+id=3; pagerank=1.41
+id=2; pagerank=1.2
+id=4; pagerank=0.93
+id=1; pagerank=0.89
+id=7; pagerank=0.87
+id=5; pagerank=0.64
+id=8; pagerank=0.38
